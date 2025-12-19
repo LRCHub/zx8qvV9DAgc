@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "唱 (Live / THE FIRST WORLD TOUR “Wish” Los Angeles)",
+  "base_artist": "Ado",
+  "createdAt": "2025-12-19T12:08:23.136600Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "唱",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/01_唱_Ado.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "唱",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/02_唱_Ado.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "唱",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/03_唱_Ado.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "唱",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/04_唱_Ado.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "唱",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/05_唱_Ado.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "唱",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/06_唱_Ado.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "唱",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/07_唱_Ado.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "唱 - Jax Jones Remix",
+      "artist": "Ado/Jax Jones",
+      "has_synced": true,
+      "path": "select/08_唱_-_Jax_Jones_Remix_Ado_Jax_Jones.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "唱 - Show",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/09_唱_-_Show_Ado.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "唱 - Show",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/10_唱_-_Show_Ado.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "唱 - Jax Jones Remix",
+      "artist": "Ado/Jax Jones",
+      "has_synced": true,
+      "path": "select/11_唱_-_Jax_Jones_Remix_Ado_Jax_Jones.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Show (唱)",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/12_Show_(唱)_Ado.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Ado 唱",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/13_Ado_唱_Ado.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Show (唱)",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/14_Show_(唱)_Ado.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "唱 (Stripped)",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/15_唱_(Stripped)_Ado.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "唱 (Instrumental)",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/16_唱_(Instrumental)_Ado.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "唱 (A Cappella)",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/17_唱_(A_Cappella)_Ado.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "唱",
+      "artist": "Ado",
+      "has_synced": false,
+      "path": "select/pl_01_唱_Ado.txt"
+    }
+  ]
+}
